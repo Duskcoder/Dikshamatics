@@ -1,0 +1,29 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+:root{
+    --main_text:#56166d;
+}
+/* section 1 start */
+
+/* section 1 below start  */
+.section1-bg{
+    background-color: #56166d;
+}
+.section1-below{
+text-align: center;
+color: white;
+}
+/* section 1 below end  */
+
+/* section 1 below num start*/
+.section1-num{
+ 
+}
+.section1-head{
+    color: var(--main_text);
+    background-color: #debee9;
+    padding: 10px 20px;
+}
+/* section 1 below num end*/
+/* section 1 end */
